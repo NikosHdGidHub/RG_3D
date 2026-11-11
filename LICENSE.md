@@ -1,0 +1,6 @@
+Copyright (c) 2026 Nikos Hd
+
+All rights reserved.
+
+This source code is provided for viewing purposes only. 
+No part of this code may be copied, modified, distributed, or used in any form without the express written permission of the copyright holder.
